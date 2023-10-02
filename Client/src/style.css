@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+input#exampleInputEmail1 {
+    width: 300px;
+}
+
+input#exampleInputPassword1 {
+    width: 300px;
+}
